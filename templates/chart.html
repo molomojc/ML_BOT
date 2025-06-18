@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BTC Candlesticks</title>
+    <meta http-equiv="refresh" content="60">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; }
+        .container { width: 90%; margin: 0 auto; }
+        .update-info { color: #888; margin-bottom: 20px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bitcoin Candlestick Chart</h1>
+        <div class="update-info">
+            Last updated: {{ last_updated }} | Auto-refreshes every 60 seconds
+        </div>
+        <div>
+            {{ chart|safe }}
+        </div>
+    </div>
+</body>
+</html>

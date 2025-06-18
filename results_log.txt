@@ -1,0 +1,489 @@
+=====================EURUSD=============================
+🕒 Timeframe Tested: 15m
+📅 Date: 2025-04-14 15:15:31
+Final Balance: $9713.12
+Total Return: -2.87%
+Total Trades: 6
+Win Rate: 33.33%
+Average Win: $23.59
+Average Loss: $-83.52
+Profit Factor: 0.14
+Max Drawdown: -3.04%
+Sharpe Ratio: -9.72
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.08, Exit: 1.09, PnL: -167.94, Entry Time: 2025-04-02 22:00:00+00:00, Exit Time: 2025-04-03 00:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.10, Exit: 1.10, PnL: 30.24, Entry Time: 2025-04-04 14:15:00+00:00, Exit Time: 2025-04-04 16:15:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.09, Exit: 1.10, PnL: -112.85, Entry Time: 2025-04-04 20:15:00+00:00, Exit Time: 2025-04-06 23:00:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.09, Exit: 1.09, PnL: -44.79, Entry Time: 2025-04-07 16:30:00+00:00, Exit Time: 2025-04-07 17:00:00+00:00
+Trade ID: 4, Type: LONG, Entry: 1.09, Exit: 1.09, PnL: -8.49, Entry Time: 2025-04-07 18:45:00+00:00, Exit Time: 2025-04-07 19:00:00+00:00
+Trade ID: 4, Type: LONG, Entry: 1.09, Exit: 1.09, PnL: 16.95, Entry Time: 2025-04-07 23:15:00+00:00, Exit Time: 2025-04-08 07:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 15:23:09
+Final Balance: $9904.12
+Total Return: -0.96%
+Total Trades: 7
+Win Rate: 28.57%
+Average Win: $30.41
+Average Loss: $-31.34
+Profit Factor: 0.39
+Max Drawdown: -1.05%
+Sharpe Ratio: -4.95
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 1.13, Exit: 1.13, PnL: -13.57, Entry Time: 2025-04-11 00:55:00+00:00, Exit Time: 2025-04-11 01:20:00+00:00
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 51.79, Entry Time: 2025-04-11 05:15:00+00:00, Exit Time: 2025-04-11 06:45:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.13, PnL: -56.86, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 11:55:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -81.76, Entry Time: 2025-04-11 13:45:00+00:00, Exit Time: 2025-04-11 14:20:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -2.25, Entry Time: 2025-04-14 00:30:00+00:00, Exit Time: 2025-04-14 00:55:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.25, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 3, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 9.02, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:02:50
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:04:40
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:13:14
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:15:01
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:16:46
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 16:20:10
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 8
+Win Rate: 37.50%
+Average Win: $28.81
+Average Loss: $-48.49
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -3.93
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 17:43:28
+Final Balance: $10031.89
+Total Return: 0.32%
+Total Trades: 4
+Win Rate: 75.00%
+Average Win: $10.63
+Average Loss: $-0.00
+Profit Factor: 63779.05
+Max Drawdown: -0.00%
+Sharpe Ratio: 17.89
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -0.00, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 12:15:00+00:00
+Trade ID: 0, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 15.91, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:55:00+00:00
+Trade ID: 0, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 11.41, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 10:30:00+00:00
+Trade ID: 0, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.57, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:40:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 17:44:52
+Final Balance: $9873.13
+Total Return: -1.27%
+Total Trades: 7
+Win Rate: 42.86%
+Average Win: $38.57
+Average Loss: $-60.64
+Profit Factor: 0.48
+Max Drawdown: -2.00%
+Sharpe Ratio: -3.31
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 33.46, Entry Time: 2025-04-11 11:20:00+00:00, Exit Time: 2025-04-11 13:40:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.93, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.24, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.95, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.40, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.29, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 17:47:33
+Final Balance: $9920.50
+Total Return: -0.79%
+Total Trades: 7
+Win Rate: 57.14%
+Average Win: $33.49
+Average Loss: $-71.15
+Profit Factor: 0.63
+Max Drawdown: -2.00%
+Sharpe Ratio: -2.04
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 46.87, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 02:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.72, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:10:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.97, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.73, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:30:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.48, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.64, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:55:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 17:51:06
+Final Balance: $9920.50
+Total Return: -0.79%
+Total Trades: 7
+Win Rate: 57.14%
+Average Win: $33.49
+Average Loss: $-71.15
+Profit Factor: 0.63
+Max Drawdown: -2.00%
+Sharpe Ratio: -2.04
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 46.87, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 02:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.72, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:10:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.97, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.73, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:30:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.48, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.64, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:55:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 17:56:06
+Final Balance: $9920.50
+Total Return: -0.79%
+Total Trades: 7
+Win Rate: 57.14%
+Average Win: $33.49
+Average Loss: $-71.15
+Profit Factor: 0.63
+Max Drawdown: -2.00%
+Sharpe Ratio: -2.04
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 46.87, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 02:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.72, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:10:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.97, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -6.73, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:30:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.48, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.64, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:55:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-14 18:01:14
+Final Balance: $9844.01
+Total Return: -1.56%
+Total Trades: 7
+Win Rate: 42.86%
+Average Win: $28.81
+Average Loss: $-60.61
+Profit Factor: 0.36
+Max Drawdown: -2.34%
+Sharpe Ratio: -4.18
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -200.00, Entry Time: 2025-04-11 02:50:00+00:00, Exit Time: 2025-04-11 08:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: -8.90, Entry Time: 2025-04-14 00:25:00+00:00, Exit Time: 2025-04-14 00:50:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -2.23, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 04:00:00+00:00
+Trade ID: 2, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 8.92, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:45:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.30, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.45, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 73.07, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 13:55:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-15 20:04:10
+Final Balance: $10010.90
+Total Return: 0.11%
+Total Trades: 11
+Win Rate: 63.64%
+Average Win: $13.92
+Average Loss: $-21.63
+Profit Factor: 1.13
+Max Drawdown: -0.37%
+Sharpe Ratio: 0.64
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -22.77, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 05:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 18.19, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.93, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.54, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 58.78, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 14:10:00+00:00
+Trade ID: 4, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 4.56, Entry Time: 2025-04-14 14:35:00+00:00, Exit Time: 2025-04-14 16:00:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 4.55, Entry Time: 2025-04-14 17:10:00+00:00, Exit Time: 2025-04-14 18:10:00+00:00
+Trade ID: 5, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 4.55, Entry Time: 2025-04-14 23:35:00+00:00, Exit Time: 2025-04-15 02:10:00+00:00
+Trade ID: 6, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -9.12, Entry Time: 2025-04-15 06:35:00+00:00, Exit Time: 2025-04-15 07:40:00+00:00
+Trade ID: 7, Type: LONG, Entry: 1.13, Exit: 1.13, PnL: -22.73, Entry Time: 2025-04-15 12:25:00+00:00, Exit Time: 2025-04-15 12:40:00+00:00
+Trade ID: 7, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 2.27, Entry Time: 2025-04-15 12:40:00+00:00, Exit Time: 2025-04-15 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-15 20:04:33
+Final Balance: $10010.90
+Total Return: 0.11%
+Total Trades: 11
+Win Rate: 63.64%
+Average Win: $13.92
+Average Loss: $-21.63
+Profit Factor: 1.13
+Max Drawdown: -0.37%
+Sharpe Ratio: 0.64
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -22.77, Entry Time: 2025-04-14 03:10:00+00:00, Exit Time: 2025-04-14 05:30:00+00:00
+Trade ID: 1, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 18.19, Entry Time: 2025-04-14 05:35:00+00:00, Exit Time: 2025-04-14 07:30:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: -31.93, Entry Time: 2025-04-14 08:00:00+00:00, Exit Time: 2025-04-14 08:15:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 1.14, Exit: 1.14, PnL: 4.54, Entry Time: 2025-04-14 10:30:00+00:00, Exit Time: 2025-04-14 10:50:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 1.14, Exit: 1.13, PnL: 58.78, Entry Time: 2025-04-14 12:15:00+00:00, Exit Time: 2025-04-14 14:10:00+00:00
+Trade ID: 4, Type: LONG, Entry: 1.14, Exit: 1.14, PnL: 4.56, Entry Time: 2025-04-14 14:35:00+00:00, Exit Time: 2025-04-14 16:00:00+00:00
+Trade ID: 4, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 4.55, Entry Time: 2025-04-14 17:10:00+00:00, Exit Time: 2025-04-14 18:10:00+00:00
+Trade ID: 5, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 4.55, Entry Time: 2025-04-14 23:35:00+00:00, Exit Time: 2025-04-15 02:10:00+00:00
+Trade ID: 6, Type: SHORT, Entry: 1.13, Exit: 1.14, PnL: -9.12, Entry Time: 2025-04-15 06:35:00+00:00, Exit Time: 2025-04-15 07:40:00+00:00
+Trade ID: 7, Type: LONG, Entry: 1.13, Exit: 1.13, PnL: -22.73, Entry Time: 2025-04-15 12:25:00+00:00, Exit Time: 2025-04-15 12:40:00+00:00
+Trade ID: 7, Type: SHORT, Entry: 1.13, Exit: 1.13, PnL: 2.27, Entry Time: 2025-04-15 12:40:00+00:00, Exit Time: 2025-04-15 13:45:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-15 20:09:15
+Final Balance: $9941.00
+Total Return: -0.59%
+Total Trades: 8
+Win Rate: 50.00%
+Average Win: $21.35
+Average Loss: $-36.10
+Profit Factor: 0.59
+Max Drawdown: -0.59%
+Sharpe Ratio: -2.63
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 3241.50, Exit: 3233.10, PnL: 51.83, Entry Time: 2025-04-14 07:50:00+00:00, Exit Time: 2025-04-14 11:00:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3225.30, Exit: 3222.70, PnL: -16.21, Entry Time: 2025-04-14 15:05:00+00:00, Exit Time: 2025-04-14 15:25:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3223.20, Exit: 3226.40, PnL: 19.93, Entry Time: 2025-04-14 16:45:00+00:00, Exit Time: 2025-04-14 18:20:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3227.10, Exit: 3227.60, PnL: 3.12, Entry Time: 2025-04-14 19:25:00+00:00, Exit Time: 2025-04-14 20:25:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 3224.70, Exit: 3226.70, PnL: -12.48, Entry Time: 2025-04-14 20:30:00+00:00, Exit Time: 2025-04-14 22:05:00+00:00
+Trade ID: 2, Type: LONG, Entry: 3229.80, Exit: 3227.70, PnL: -13.07, Entry Time: 2025-04-14 23:45:00+00:00, Exit Time: 2025-04-15 00:40:00+00:00
+Trade ID: 2, Type: LONG, Entry: 3233.70, Exit: 3235.40, PnL: 10.55, Entry Time: 2025-04-15 01:10:00+00:00, Exit Time: 2025-04-15 02:10:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 3228.40, Exit: 3244.90, PnL: -102.66, Entry Time: 2025-04-15 13:50:00+00:00, Exit Time: 2025-04-15 17:40:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-04-15 20:10:18
+Final Balance: $10043.67
+Total Return: 0.44%
+Total Trades: 7
+Win Rate: 57.14%
+Average Win: $21.35
+Average Loss: $-13.92
+Profit Factor: 2.05
+Max Drawdown: 0.00%
+Sharpe Ratio: 4.09
+--------------------------------------------------
+Trade ID: 0, Type: SHORT, Entry: 3241.50, Exit: 3233.10, PnL: 51.83, Entry Time: 2025-04-14 07:50:00+00:00, Exit Time: 2025-04-14 11:00:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3225.30, Exit: 3222.70, PnL: -16.21, Entry Time: 2025-04-14 15:05:00+00:00, Exit Time: 2025-04-14 15:25:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3223.20, Exit: 3226.40, PnL: 19.93, Entry Time: 2025-04-14 16:45:00+00:00, Exit Time: 2025-04-14 18:20:00+00:00
+Trade ID: 1, Type: LONG, Entry: 3227.10, Exit: 3227.60, PnL: 3.12, Entry Time: 2025-04-14 19:25:00+00:00, Exit Time: 2025-04-14 20:25:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 3224.70, Exit: 3226.70, PnL: -12.48, Entry Time: 2025-04-14 20:30:00+00:00, Exit Time: 2025-04-14 22:05:00+00:00
+Trade ID: 2, Type: LONG, Entry: 3229.80, Exit: 3227.70, PnL: -13.07, Entry Time: 2025-04-14 23:45:00+00:00, Exit Time: 2025-04-15 00:40:00+00:00
+Trade ID: 2, Type: LONG, Entry: 3233.70, Exit: 3235.40, PnL: 10.55, Entry Time: 2025-04-15 01:10:00+00:00, Exit Time: 2025-04-15 02:10:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-06-09 21:45:14
+Final Balance: $9993.42
+Total Return: -0.07%
+Total Trades: 1
+Win Rate: 0.00%
+Average Win: $0.00
+Average Loss: $-6.58
+Profit Factor: 0.00
+Max Drawdown: -0.07%
+Sharpe Ratio: 0.00
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 3345.20, Exit: 3344.10, PnL: -6.58, Entry Time: 2025-06-09 06:55:00+00:00, Exit Time: 2025-06-09 08:30:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-06-18 20:55:08
+Final Balance: $10129.41
+Total Return: 1.29%
+Total Trades: 7
+Win Rate: 100.00%
+Average Win: $18.49
+Average Loss: $0.00
+Profit Factor: inf
+Max Drawdown: 0.00%
+Sharpe Ratio: 23.36
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 3400.50, Exit: 3408.00, PnL: 44.11, Entry Time: 2025-06-17 16:35:00+00:00, Exit Time: 2025-06-17 18:40:00+00:00
+Trade ID: 0, Type: LONG, Entry: 3404.70, Exit: 3407.30, PnL: 15.34, Entry Time: 2025-06-17 20:35:00+00:00, Exit Time: 2025-06-17 22:55:00+00:00
+Trade ID: 0, Type: SHORT, Entry: 3407.70, Exit: 3405.80, PnL: 11.22, Entry Time: 2025-06-17 23:00:00+00:00, Exit Time: 2025-06-18 00:45:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 3399.10, Exit: 3397.10, PnL: 11.85, Entry Time: 2025-06-18 01:50:00+00:00, Exit Time: 2025-06-18 02:50:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 3405.10, Exit: 3404.00, PnL: 6.51, Entry Time: 2025-06-18 05:50:00+00:00, Exit Time: 2025-06-18 07:55:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 3401.40, Exit: 3398.70, PnL: 16.02, Entry Time: 2025-06-18 08:50:00+00:00, Exit Time: 2025-06-18 10:35:00+00:00
+Trade ID: 4, Type: LONG, Entry: 3401.10, Exit: 3405.20, PnL: 24.36, Entry Time: 2025-06-18 11:15:00+00:00, Exit Time: 2025-06-18 14:05:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-06-18 21:35:32
+Final Balance: $10129.41
+Total Return: 1.29%
+Total Trades: 7
+Win Rate: 100.00%
+Average Win: $18.49
+Average Loss: $0.00
+Profit Factor: inf
+Max Drawdown: 0.00%
+Sharpe Ratio: 23.36
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 3400.50, Exit: 3408.00, PnL: 44.11, Entry Time: 2025-06-17 16:35:00+00:00, Exit Time: 2025-06-17 18:40:00+00:00
+Trade ID: 0, Type: LONG, Entry: 3404.70, Exit: 3407.30, PnL: 15.34, Entry Time: 2025-06-17 20:35:00+00:00, Exit Time: 2025-06-17 22:55:00+00:00
+Trade ID: 0, Type: SHORT, Entry: 3407.70, Exit: 3405.80, PnL: 11.22, Entry Time: 2025-06-17 23:00:00+00:00, Exit Time: 2025-06-18 00:45:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 3399.10, Exit: 3397.10, PnL: 11.85, Entry Time: 2025-06-18 01:50:00+00:00, Exit Time: 2025-06-18 02:50:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 3405.10, Exit: 3404.00, PnL: 6.51, Entry Time: 2025-06-18 05:50:00+00:00, Exit Time: 2025-06-18 07:55:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 3401.40, Exit: 3398.70, PnL: 16.02, Entry Time: 2025-06-18 08:50:00+00:00, Exit Time: 2025-06-18 10:35:00+00:00
+Trade ID: 4, Type: LONG, Entry: 3401.10, Exit: 3405.20, PnL: 24.36, Entry Time: 2025-06-18 11:15:00+00:00, Exit Time: 2025-06-18 14:05:00+00:00
+==================================================
+
+=====================EURUSD=============================
+🕒 Timeframe Tested: 5m
+📅 Date: 2025-06-18 21:44:57
+Final Balance: $10129.41
+Total Return: 1.29%
+Total Trades: 7
+Win Rate: 100.00%
+Average Win: $18.49
+Average Loss: $0.00
+Profit Factor: inf
+Max Drawdown: 0.00%
+Sharpe Ratio: 23.36
+--------------------------------------------------
+Trade ID: 0, Type: LONG, Entry: 3400.50, Exit: 3408.00, PnL: 44.11, Entry Time: 2025-06-17 16:35:00+00:00, Exit Time: 2025-06-17 18:40:00+00:00
+Trade ID: 0, Type: LONG, Entry: 3404.70, Exit: 3407.30, PnL: 15.34, Entry Time: 2025-06-17 20:35:00+00:00, Exit Time: 2025-06-17 22:55:00+00:00
+Trade ID: 0, Type: SHORT, Entry: 3407.70, Exit: 3405.80, PnL: 11.22, Entry Time: 2025-06-17 23:00:00+00:00, Exit Time: 2025-06-18 00:45:00+00:00
+Trade ID: 1, Type: SHORT, Entry: 3399.10, Exit: 3397.10, PnL: 11.85, Entry Time: 2025-06-18 01:50:00+00:00, Exit Time: 2025-06-18 02:50:00+00:00
+Trade ID: 2, Type: SHORT, Entry: 3405.10, Exit: 3404.00, PnL: 6.51, Entry Time: 2025-06-18 05:50:00+00:00, Exit Time: 2025-06-18 07:55:00+00:00
+Trade ID: 3, Type: SHORT, Entry: 3401.40, Exit: 3398.70, PnL: 16.02, Entry Time: 2025-06-18 08:50:00+00:00, Exit Time: 2025-06-18 10:35:00+00:00
+Trade ID: 4, Type: LONG, Entry: 3401.10, Exit: 3405.20, PnL: 24.36, Entry Time: 2025-06-18 11:15:00+00:00, Exit Time: 2025-06-18 14:05:00+00:00
+==================================================
+

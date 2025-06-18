@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>BTC Technical Dashboard</title>
+    <meta http-equiv="refresh" content="60">
+    <style>
+        body { font-family: Arial, sans-serif; margin: 20px; background-color: #1a1a1a; color: #ddd; }
+        .container { max-width: 1200px; margin: 0 auto; }
+        .grid { display: grid; grid-template-columns: 2fr 1fr; gap: 20px; }
+        .card { background: #2a2a2a; padding: 15px; border-radius: 5px; margin-bottom: 15px; }
+        .signal { display: flex; justify-content: space-between; }
+        .buy { color: lightgreen; }
+        .sell { color: salmon; }
+        h2 { color: #4CAF50; border-bottom: 1px solid #444; padding-bottom: 5px; }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Bitcoin Technical Analysis Dashboard</h1>
+        <p>Last updated: {{ last_updated }} | Auto-refreshes every 60 seconds</p>
+        
+        <div class="grid">
+            <div class="card">
+                {{ chart|safe }}
+            </div>
+            
+            <div>
+                <div class="card">
+                    <h2>Current Price</h2>
+                    <div style="font-size: 24px; font-weight: bold;">${{ price }}</div>
+                    <div>Trend: <strong>{{ trend }}</strong></div>
+                </div>
+                
+                <div class="card">
+                    <h2>Support/Resistance</h2>
+                    <div class="signal">
+                        <span>Support:</span>
+                        <span>${{ "%.2f"|format(sr_signals.support) }}</span>
+                    </div>
+                    <div class="signal">
+                        <span>Resistance:</span>
+                        <span>${{ "%.2f"|format(sr_signals.resistance) }}</span>
+                    </div>
+                    <div class="signal">
+                        <span>Bullish Break:</span>
+                        <span class="{{ 'buy' if sr_signals.bullish_break else '' }}">
+                            {{ sr_signals.bullish_break }}
+                        </span>
+                    </div>
+                    <div class="signal">
+                        <span>Bearish Break:</span>
+                        <span class="{{ 'sell' if sr_signals.bearish_break else '' }}">
+                            {{ sr_signals.bearish_break }}
+                        </span>
+                    </div>
+                </div>
+                
+                <div class="card">
+                    <h2>Fibonacci Levels</h2>
+                    {% for level, price in fib_levels.items() %}
+                    <div class="signal">
+                        <span>{{ level }}:</span>
+                        <span>${{ "%.2f"|format(price) }}</span>
+                    </div>
+                    {% endfor %}
+                </div>
+                
+                <div class="card">
+                    <h2>Candle Patterns</h2>
+                    {% for pattern, detected in candle_patterns.items() %}
+                    <div class="signal">
+                        <span>{{ pattern|replace('_', ' ')|title }}:</span>
+                        <span class="{{ 'buy' if detected and 'bull' in pattern else 
+                                      'sell' if detected and 'bear' in pattern else '' }}">
+                            {{ detected }}
+                        </span>
+                    </div>
+                    {% endfor %}
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
